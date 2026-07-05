@@ -1,0 +1,109 @@
+{
+    "vulnerability_categories": [
+        {
+            "name": "SQL Injection",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "Cross Site Scripting",
+            "severity": "High",
+            "enabled": true
+        },
+        {
+            "name": "Command Injection",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "Path Traversal",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "Server Side Request Forgery",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "XML External Entity",
+            "severity": "High",
+            "enabled": true
+        },
+        {
+            "name": "LDAP Injection",
+            "severity": "High",
+            "enabled": true
+        },
+        {
+            "name": "NoSQL Injection",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "Server Side Template Injection",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "Hardcoded Secrets",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "Weak Cryptography",
+            "severity": "Medium",
+            "enabled": true
+        },
+        {
+            "name": "Dangerous Functions",
+            "severity": "High",
+            "enabled": true
+        },
+        {
+            "name": "Unsafe Deserialization",
+            "severity": "Critical",
+            "enabled": true
+        },
+        {
+            "name": "JWT Issues",
+            "severity": "High",
+            "enabled": true
+        },
+        {
+            "name": "Docker Misconfiguration",
+            "severity": "Medium",
+            "enabled": true
+        },
+        {
+            "name": "Kubernetes Misconfiguration",
+            "severity": "Medium",
+            "enabled": true
+        },
+        {
+            "name": "Dependency Vulnerabilities",
+            "severity": "High",
+            "enabled": true
+        },
+        {
+            "name": "Open Redirect",
+            "severity": "Medium",
+            "enabled": true
+        },
+        {
+            "name": "Regex DoS",
+            "severity": "Medium",
+            "enabled": true
+        },
+        {
+            "name": "File Upload Vulnerabilities",
+            "severity": "High",
+            "enabled": true
+        },
+        {
+            "name": "SSL/TLS Misconfiguration",
+            "severity": "Medium",
+            "enabled": true
+        }
+    ]
+}

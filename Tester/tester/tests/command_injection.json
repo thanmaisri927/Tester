@@ -1,0 +1,11 @@
+{
+    "category": "Command Injection",
+    "severity": "Critical",
+    "patterns": [
+        "; ls",
+        "&& whoami",
+        "| cat /etc/passwd",
+        "`whoami`",
+        "$(id)"
+    ]
+}
